@@ -86,7 +86,7 @@ Although post-decision data is not available, impact can be measured using:
 ## Files Included
 
 * `campaign_analysis.py` – Python script for campaign performance analysis
-* `Campaign-Data.csv` – Dataset (if permitted)
+* `Campaign-Data.csv` – Dataset
 * `README.md` – Project overview and insights
 
 ---
